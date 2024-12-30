@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @diazalie
 - 👀 When I'm not working I’m interested in gaming (Nintendo Switch!), reading (thrillers!), and surfing. 
 - 🌱 I’m currently learning advanced SQL skills and Python. 
-- 📫 How to reach me: diazalie@icloud.com
 - ⚡ Fun fact: I used to model back in the day :) 
 
 <!---
